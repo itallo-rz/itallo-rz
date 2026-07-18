@@ -13,10 +13,16 @@ Atualmente focado em <b>Front-end</b>, <b>UI Design</b>, <b>dashboards</b> e <b>
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6" />
-  <img src="https://img.shields.io/badge/TailwindCSS-0D1117?style=flat-square&logo=tailwindcss&logoColor=38BDF8" />
+<p align="left">
+  <img src="https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Vite-0D1117?style=for-the-badge&logo=vite&logoColor=646CFF" />
+  <img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+  <img src="https://img.shields.io/badge/TailwindCSS-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" />
+  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=FFD43B" />
+  <img src="https://img.shields.io/badge/Supabase-0D1117?style=for-the-badge&logo=supabase&logoColor=3ECF8E" />
+  <img src="https://img.shields.io/badge/Tauri-0D1117?style=for-the-badge&logo=tauri&logoColor=FFC131" />
+  <img src="https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=F24E1E" />
 </p>
 
 </td>
