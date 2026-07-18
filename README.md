@@ -43,7 +43,6 @@ Interface para organização financeira pessoal com gráficos e visão mensal.
 Projeto de e-commerce/redirect com foco em visual limpo e moderno.
 
 <br>
-<br>
 
 <p align="center">
   Building one product at a time.
