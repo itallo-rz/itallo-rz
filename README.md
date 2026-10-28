@@ -1,6 +1,6 @@
 <div align="center">
 
-Italo Reis
+
 
 <p align="center">
 Frontend Developer & Product Designer
@@ -28,19 +28,7 @@ Frontend Developer & Product Designer
   </tr>
 </table>
 
-**Projetos**
 
-**DL Translate**                                                                                                                    
-Tradutor de áudio em tempo real para vídeos, lives e conteúdos multimídia.
-
-**Elite Coach**                                                                                                                     
-Sistema para professores acompanharem alunos, avaliações, agenda e evolução esportiva.
-
-**Dashboard Financeiro**                                                                                                              
-Interface para organização financeira pessoal com gráficos e visão mensal.
-
-**Linkstore**                                                                                                                        
-Projeto de e-commerce/redirect com foco em visual limpo e moderno.
 
 <br>
 
